@@ -1,0 +1,20 @@
+PODS:
+  - FSCalendar (2.8.1)
+  - PKHUD (5.3.0)
+
+DEPENDENCIES:
+  - FSCalendar
+  - PKHUD (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - FSCalendar
+    - PKHUD
+
+SPEC CHECKSUMS:
+  FSCalendar: 5245140456fcbcac5824c203b98bd8068bdfee1a
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+
+PODFILE CHECKSUM: a566606eab7e651df004c5a80a67118e5a48fcc0
+
+COCOAPODS: 1.10.0
