@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		653AB31325D8EDD900202B59 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653AB31225D8EDD900202B59 /* SecondViewController.swift */; };
 		65AF02982557B9B70011345A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65AF02972557B9B70011345A /* AppDelegate.swift */; };
 		65AF029A2557B9B70011345A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65AF02992557B9B70011345A /* ViewController.swift */; };
 		65AF029D2557B9B70011345A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65AF029B2557B9B70011345A /* Main.storyboard */; };
@@ -41,6 +42,7 @@
 		02F55D9BC63C96296E3D5A8E /* Pods-Schedule.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Schedule.release.xcconfig"; path = "Target Support Files/Pods-Schedule/Pods-Schedule.release.xcconfig"; sourceTree = "<group>"; };
 		0306C1528C4B6DA8D3A9EB83 /* Pods-ScheduleTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScheduleTests.debug.xcconfig"; path = "Target Support Files/Pods-ScheduleTests/Pods-ScheduleTests.debug.xcconfig"; sourceTree = "<group>"; };
 		3AAFBC053DB949B1178FD9B1 /* Pods_Schedule_ScheduleUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Schedule_ScheduleUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		653AB31225D8EDD900202B59 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		65AF02942557B9B70011345A /* Schedule.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Schedule.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65AF02972557B9B70011345A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65AF02992557B9B70011345A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -136,6 +138,7 @@
 				65AF029E2557B9BA0011345A /* Assets.xcassets */,
 				65AF02A02557B9BA0011345A /* LaunchScreen.storyboard */,
 				65AF02A32557B9BA0011345A /* Info.plist */,
+				653AB31225D8EDD900202B59 /* SecondViewController.swift */,
 			);
 			path = Schedule;
 			sourceTree = "<group>";
@@ -407,6 +410,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				653AB31325D8EDD900202B59 /* SecondViewController.swift in Sources */,
 				65EAD23225C68C6600C8503C /* TableViewCell.swift in Sources */,
 				65AF029A2557B9B70011345A /* ViewController.swift in Sources */,
 				65AF02982557B9B70011345A /* AppDelegate.swift in Sources */,
